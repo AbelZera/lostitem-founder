@@ -1,7 +1,7 @@
 class student
 
 {
-void add
+void sub
 ()
 {
 }}
